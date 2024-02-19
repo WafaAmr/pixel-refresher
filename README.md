@@ -17,6 +17,6 @@ Pixel Refresh is a simple Python application that uses Pygame to cycle through d
 
 ## Usage
 
-Run the `refresh.py` script to start the application and press ESC to exit:
+Run the `refresh.py` script to start the application and press <kbd>⎋ Escape</kbd> to exit:
 ```sh
 python refresh.py
