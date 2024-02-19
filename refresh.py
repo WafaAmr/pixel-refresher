@@ -45,7 +45,7 @@ while running:
     color = colors[color_state]
 
     window.fill(color)
-    # Limit the refresh rate to 60 FPS
+    # Limit the refresh rate to 1 FPS
     clock.tick(1)
     # Update the display
     pygame.display.update()
